@@ -4,3 +4,4 @@ python:alpine3.19
 onething1/wxedge:latest
 linuxserver/qbittorrent:14.3.9
 linuxserver/transmission:4.0.5
+johnshine/baidunetdisk-crossover-vnc
