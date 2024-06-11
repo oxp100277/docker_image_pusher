@@ -7,3 +7,4 @@ linuxserver/transmission:4.0.5
 linuxserver/transmission:latest
 johnshine/baidunetdisk-crossover-vnc:latest
 cnk3x/xunlei:3.11.2
+cnk3x/xunlei:latest
