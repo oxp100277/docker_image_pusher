@@ -7,4 +7,5 @@ linuxserver/transmission:4.0.5
 linuxserver/transmission:latest
 johnshine/baidunetdisk-crossover-vnc:latest
 mysql/mysql-server:latest
-tiangolo/nginx-rtmp:latest
+linuxserver/librespeed:5.3.3
+
