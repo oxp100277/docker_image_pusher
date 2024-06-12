@@ -6,3 +6,4 @@ linuxserver/qbittorrent:14.3.9
 linuxserver/transmission:4.0.5
 linuxserver/transmission:latest
 johnshine/baidunetdisk-crossover-vnc:latest
+mysql/mysql-server:latest
