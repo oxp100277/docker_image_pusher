@@ -8,4 +8,4 @@ linuxserver/transmission:latest
 johnshine/baidunetdisk-crossover-vnc:latest
 mysql/mysql-server:latest
 linuxserver/librespeed:5.3.3
-
+zmisgod/iptvchecker:v3.2.1
