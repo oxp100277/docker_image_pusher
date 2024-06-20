@@ -12,3 +12,4 @@ zmisgod/iptvchecker:v3.2.1
 mysql:latest
 photoprism/tidb:2.1.8
 portainer/portainer:latest
+altran1502/immich-server:v1.106.4
